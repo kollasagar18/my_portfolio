@@ -115,7 +115,7 @@ const Contact: React.FC<ContactProps> = ({ darkMode }) => {
 
             <div className="flex space-x-4">
               <a
-                href="https://drive.google.com/drive/folders/1_r2iJF8WdzzLcksV3yTCDYrbxGJKeLX3?usp=sharing"
+                href="https://github.com/kollasagar18"
                 target="_blank"
                 rel="noopener noreferrer"
                 className={`p-3 rounded-lg transition-all duration-300 transform hover:scale-110 ${

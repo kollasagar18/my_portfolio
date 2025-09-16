@@ -80,7 +80,7 @@ const Hero: React.FC<HeroProps> = ({ darkMode }) => {
         {/* Social Links */}
         <div className="flex justify-center space-x-6 animate-fade-in-up animation-delay-800">
           <a
-            href="https://drive.google.com/drive/folders/1_r2iJF8WdzzLcksV3yTCDYrbxGJKeLX3?usp=sharing"
+            href="https://github.com/kollasagar18"
             target="_blank"
             rel="noopener noreferrer"
             className={`p-3 rounded-full transition-all duration-300 transform hover:scale-110 ${

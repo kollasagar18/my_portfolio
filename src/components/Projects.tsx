@@ -17,7 +17,7 @@ const Projects: React.FC<ProjectsProps> = ({ darkMode }) => {
   ],
   technologies: ['Python', 'AI/ML', 'IoT Security', 'Cyber Security', 'Data Analysis'],
   image: 'https://www.ierek.com/news/wp-content/uploads/2024/12/1728928083038.png',
-  githubUrl: 'https://drive.google.com/drive/folders/1_r2iJF8WdzzLcksV3yTCDYrbxGJKeLX3?usp=sharing',
+  githubUrl: 'https://github.com/kollasagar18',
   date: 'April  2025'
 },
     {
@@ -31,7 +31,7 @@ const Projects: React.FC<ProjectsProps> = ({ darkMode }) => {
   technologies: ['Python', 'Flask', 'HTML', 'CSS', 'Bootstrap'],
   image: 'https://i.im.ge/2025/08/31/nrVZwh.Screenshot-2025-08-31-130030.png',
   liveUrl: 'https://your-project-demo-link.com',
-  githubUrl: 'https://drive.google.com/drive/folders/1_r2iJF8WdzzLcksV3yTCDYrbxGJKeLX3?usp=sharing',
+  githubUrl: 'https://github.com/kollasagar18/mini_bank.git',
   date: 'August 2025'
 },
 
@@ -48,7 +48,7 @@ const Projects: React.FC<ProjectsProps> = ({ darkMode }) => {
   technologies: ['Python', 'Flask/FastAPI (if used)', 'CSV Handling', 'Ngrok', 'Telephony APIs'],
   image: 'https://a4f8b050.delivery.rocketcdn.me/wp-content/uploads/2025/04/Call-Center-Automation-with-AI-Voice-Bot.jpg' ,
 
-  githubUrl: 'https://drive.google.com/drive/folders/1_r2iJF8WdzzLcksV3yTCDYrbxGJKeLX3?usp=sharing',
+  githubUrl: 'https://github.com/kollasagar18',
   date: 'August 2025'
 },
     {
@@ -63,11 +63,10 @@ const Projects: React.FC<ProjectsProps> = ({ darkMode }) => {
   technologies: ['HTML', 'CSS', 'JavaScript', 'Node.js', 'AI/Automation'],
   image: 'https://i.im.ge/2025/09/01/nuLgxa.Screenshot-2025-09-01-003408.png',
 
-  githubUrl: 'https://drive.google.com/drive/folders/1_r2iJF8WdzzLcksV3yTCDYrbxGJKeLX3?usp=sharing',// 🔗 Replace with your repo link
+  githubUrl: 'https://github.com/kollasagar18/ai_email_sendender.git',// 🔗 Replace with your repo link
   date: 'January 2025'
 },
-
-    {
+   {
   title: 'Online House Rental System',
   description: [
     "Developed a full-stack Java web application for managing house rental bookings with both front-end and back-end integration.",
@@ -79,9 +78,20 @@ const Projects: React.FC<ProjectsProps> = ({ darkMode }) => {
   technologies: ['HTML', 'CSS', 'JavaScript', 'REST APIs', 'PostgreSQL/Database'],
   image: 'https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?auto=compress&cs=tinysrgb&w=800',
  
-  githubUrl: 'https://drive.google.com/drive/folders/1_r2iJF8WdzzLcksV3yTCDYrbxGJKeLX3?usp=sharing',
+  githubUrl: 'https://github.com/kollasagar18',
   date: 'December 2024'
-}
+},
+ {
+  title: 'E-commerce app',
+  description: [
+    "This project is a modern real estate web application called PropBot, built using React, TypeScript, TailwindCSS, and Vite. The application provides users with an intuitive platform to explore, search, and filter property listings for buying, renting, or leasing. It features a responsive and clean design, with a landing page that includes a hero banner, property search filters, services overview, featured properties, and newsletter subscription. Navigation is handled with React Router, allowing seamless transitions between pages such as the homepage, buy page, and login/register page. TailwindCSS ensures the interface is fully responsive across devices, while Lucide-react icons enhance the user experience. The project follows a component-based structure, including reusable elements like headers, footers, property listings, and forms. With its attractive UI, smooth navigation, and organized codebase, PropBot demonstrates a practical real-world use case for a modern property discovery platform"
+  ],
+  technologies: ['React.js','TypeScript','Vite','Tailwind CSS','React Router DOM','Lucide-react','Node.js & npmS'],
+  image: 'https://i.im.ge/2025/09/16/nLWYMF.Screenshot-2025-09-16-044429.png',
+  liveUrl: 'https://dealzup-assignment.netlify.app/',
+  githubUrl: 'https://github.com/kollasagar18/dealzup-assignment.git',// 🔗 Replace with your repo link
+  date: 'september 2025'
+},
 
   ];
 
