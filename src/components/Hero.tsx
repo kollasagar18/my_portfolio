@@ -48,7 +48,7 @@ const Hero: React.FC<HeroProps> = ({ darkMode }) => {
               darkMode ? 'text-blue-300' : 'text-blue-600'
             } animate-fade-in-up animation-delay-200`}
           >
-            PYTHON Developer
+            PYTHON DEVELOPER
           </h2>
 
           <p

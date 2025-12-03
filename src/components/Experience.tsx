@@ -41,7 +41,7 @@ const Experience: React.FC<ExperienceProps> = ({ darkMode }) => {
       title: 'Software Developer intern ',
       organization: '',
       location: 'Remote',
-      date: '2025- Present',
+      date: '2025',
       description: 'I am currently working on the backend using Python and implementing the required APIs',
     }
   ];

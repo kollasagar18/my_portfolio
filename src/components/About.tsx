@@ -25,25 +25,25 @@ const About: React.FC<AboutProps> = ({ darkMode }) => {
 
         <div className="grid lg:grid-cols-2 gap-12 items-center">
           <div>
-            <h3 className={`text-2xl font-semibold mb-6 ${
-              darkMode ? 'text-white' : 'text-gray-900'
-            }`}>
-              Computer Science Student
+            <h3 className={`text-lg md:text-xl mb-12 max-w-2xl mx-auto leading-relaxed ${
+              darkMode ? 'text-gray-300' : 'text-gray-600'
+            } animate-fade-in-up animation-delay-400`}>
+              
             </h3>
             <div className="space-y-4">
-              <p className={`text-lg leading-relaxed ${
-                darkMode ? 'text-gray-300' : 'text-gray-600'
-              }`}>
+              <p className={`text-lg md:text-xl mb-12 max-w-2xl mx-auto leading-relaxed ${
+              darkMode ? 'text-gray-300' : 'text-gray-600'
+            } animate-fade-in-up animation-delay-400`}>
                I’m a dedicated computer science student with a strong passion for technology and innovation. While pursuing my degree, I have actively built projects and gained hands-on experience in software development.
               </p>
-              <p className={`text-lg leading-relaxed ${
-                darkMode ? 'text-gray-300' : 'text-gray-600'
-              }`}>
+              <p className={`text-lg md:text-xl mb-12 max-w-2xl mx-auto leading-relaxed ${
+              darkMode ? 'text-gray-300' : 'text-gray-600'
+            } animate-fade-in-up animation-delay-400`}>
                My journey in computer science has provided me with a solid foundation in programming languages, algorithms, and software engineering principles. I am particularly interested in full-stack web development, machine learning, and AI-driven solutions that create a meaningful impact.
               </p>
-              <p className={`text-lg leading-relaxed ${
-                darkMode ? 'text-gray-300' : 'text-gray-600'
-              }`}>
+              <p className={`text-lg md:text-xl mb-12 max-w-2xl mx-auto leading-relaxed ${
+              darkMode ? 'text-gray-300' : 'text-gray-600'
+            } animate-fade-in-up animation-delay-400`}>
                 I'm actively seeking internship and entry-level opportunities where I can contribute to 
                 meaningful projects while continuing to learn and grow as a developer.
               </p>
