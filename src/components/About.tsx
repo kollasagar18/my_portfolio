@@ -7,16 +7,8 @@ interface AboutProps {
 
 const About: React.FC<AboutProps> = ({ darkMode }) => {
   const highlights = [
-    {
-      icon: <Code size={24} />,
-      title: 'Full-Stack Development',
-      description: 'Proficient in modern web technologies and frameworks'
-    },
-    {
-      icon: <Database size={24} />,
-      title: 'Database',
-      description: 'pandugram sql admin 4'
-    },
+        
+    
   ];
 
   return (

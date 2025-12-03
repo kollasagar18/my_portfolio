@@ -12,23 +12,25 @@ const Skills: React.FC<SkillsProps> = ({ darkMode }) => {
        
         { name: 'Python', level: 90 },
         { name: 'Java', level: 60 },
-        { name: 'PostgreSQL', level: 80 }
+        { name: 'MYSQL/PostgreSQL', level: 80 }
        ]
     },
     {
       category: 'Web Technologies',
       skills: [
        
-        { name: 'Node.js', level: 82 },
-         { name: 'JavaScript', level: 90 },
+        { name: 'Django', level: 82 },
+         { name: 'Flask', level: 90 },
         { name: 'HTML/CSS', level: 92 },
         { name: 'REST APIs', level: 85 }
       ]
     },
     {
-      category: 'Tools & Technologies',
+      category: 'Libraries and Frameworks',
       skills: [
-        { name: 'Git/GitHub', level: 88 },
+        { name: 'NumPy', level: 88 },
+        { name: 'pandas', level: 88 },
+        { name: 'Matplotlib', level: 88 },
         
       ]
     }

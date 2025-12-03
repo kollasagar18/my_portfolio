@@ -16,7 +16,7 @@ interface ExperienceProps {
   darkMode: boolean;
 }
 
-const Experience: React.FC<ExperienceProps> = ({ darkMode }) => {
+const education: React.FC<ExperienceProps> = ({ darkMode }) => {
   const experiences = [
     {
       type: 'education',
@@ -150,4 +150,4 @@ const Experience: React.FC<ExperienceProps> = ({ darkMode }) => {
   );
 };
 
-export default Experience;
+export default education;
